@@ -1,0 +1,18 @@
+Movie Recommendation System – Sample Output
+===========================================
+
+Target User ID: 1
+
+Recommended Movies:
+-------------------
+Swimming with Sharks (1995)        → Predicted Rating: 5.0
+True Romance (1993)                → Predicted Rating: 5.0
+It's a Wonderful Life (1946)       → Predicted Rating: 5.0
+The Right Stuff (1983)             → Predicted Rating: 5.0
+The Graduate (1967)                → Predicted Rating: 5.0
+
+--------------------------------------------------
+
+Note:
+Recommendations are generated using user-based collaborative filtering
+with cosine similarity and user-mean normalization.
