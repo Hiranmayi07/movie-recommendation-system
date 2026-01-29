@@ -31,3 +31,12 @@ A user-based collaborative filtering recommendation system built using Python.
 - Item-based collaborative filtering
 - Cold-start handling
 - Hybrid recommender system
+## 🚀 Live Demo (Streamlit App)
+
+You can try the interactive movie recommendation system locally using Streamlit:
+
+### Requirements
+Make sure you have Python 3.13+ and required libraries installed:
+
+```bash
+pip install -r requirements.txt
